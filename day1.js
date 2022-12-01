@@ -1,6 +1,3 @@
-console.log('deine mama');
-
-
 const allElfs = [
     4601,
     1583,
